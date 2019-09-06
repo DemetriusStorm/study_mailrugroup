@@ -1,4 +1,5 @@
 # import mypackage.utils
+# from mypackage.utils import *  # не явный импорт, не рекомендуется!
 from mypackage.utils import multiply
 
 if __name__ == '__main__':
